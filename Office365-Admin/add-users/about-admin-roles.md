@@ -35,7 +35,7 @@ description: "Admin roles map to business functions and give permissions to do s
 
  
   
-Office 365 comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions, and gives people in your organization permissions to do specific tasks in the Office 365 admin center. 
+Office 365 comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions, and gives people in your organization permissions to do specific tasks in the Office 365 admin center. As a security measure, consider using [Multi-Factor Authentication](https://docs.microsoft.com/office365/enterprise/protect-your-global-administrator-accounts?redirectSourcePath=%252farticle%252fProtect-your-Office-365-global-administrator-accounts-6b4ded77-ac8d-42ed-8606-c014fd947560) with any admin roles.
   
 Here are the available roles and what people assigned to them can do.
   
